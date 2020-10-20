@@ -29,6 +29,6 @@ Wax-on Wax-off lighting, just like karate kid! Use this gesture controlled power
 ## How to build
 
 <div id="instructions">
-For instructions, check out https://jaycar.com.au/hand-gesture-power-socket
+For instructions, check out https://jaycar.com.au/gesture-controlled-ppoint
 </div>
 
